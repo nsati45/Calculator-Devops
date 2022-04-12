@@ -9,3 +9,5 @@
 
     - name: pull docker image
       shell: docker pull nsati/calculator
+    - name: running container
+      shell: docker run -it -d nsati/calculator /bin/bash

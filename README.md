@@ -2,5 +2,5 @@
 checking changes
 updating changes
 
-updating changes 2.0
+removing changes 2.0
 
